@@ -29,8 +29,7 @@
 - **Animazioni & UX micro-interactions**: adoro rendere le UI vive, fluide, coinvolgenti.
 - **Web performance & accessibilità**: credo in un web veloce, inclusivo e alla portata di tutti.
 - **Open-source e community**: mi piace condividere conoscenze, contribuire a tool e librerie (✨ la collaborazione è crescita).
-- **Mentorship**: supporto chi inizia, coi tutorial, code review, pair programming.
-- **Sport & avventura**: scalate, arrampicata, giochi (competitivi e cooperativi). Energia che riporto anche nel codice!
+- **Sport & avventura**: corsa, arrampicata. Energia che riporto anche nel codice!
 
 ---
 
@@ -54,11 +53,3 @@ Sono sempre pronto per una chiacchierata su:
 > “Cerchi uno sviluppatore curioso, che cura ogni dettaglio e non si ferma finché non trova soluzione? Eccomi!”
 
 **Let's build something awesome!** 🚀
-
----
-
-> **Pro tip**: aggiungi badge (React, TS, Node, Astro, CI/CD, GSAP…) con Shields.io; includi magari una GIF animata in testa per un effetto *wow*!
-
----
-
-Fammi sapere se vuoi modifiche nel tono, ulteriori sezioni (es. certificazioni, community, talk) o un tocco più professionale/personalizzato!
