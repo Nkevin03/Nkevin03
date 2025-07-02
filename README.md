@@ -1,7 +1,7 @@
 
 # 👋 Hey, sono **Kevin**
 
-🧠 Giovane **Web Developer** con un approccio **multi-stack**, sempre alla ricerca di innovazione e sfide. Amo trasformare idee in esperienze digitali eleganti, accessibili e performanti.
+🧠 Giovane **Web Developer**, sempre alla ricerca di innovazione e sfide. Amo trasformare idee in esperienze digitali eleganti, accessibili e performanti.
 
 ---
 
